@@ -6,4 +6,5 @@ float32[3] xyz		  # Bias corrected angular velocity about the FRD body frame XYZ
 
 float32[3] xyz_derivative # angular acceleration about the FRD body frame XYZ-axis in rad/s^2
 
+float32[3] xyz_r
 # TOPICS vehicle_angular_velocity vehicle_angular_velocity_groundtruth

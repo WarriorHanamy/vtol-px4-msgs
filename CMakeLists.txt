@@ -227,6 +227,10 @@ set(msg_files
 	VtolVehicleStatus.msg
 	Wind.msg
 	YawEstimatorStatus.msg
+	#sweep frequecies requirement
+	ChirpSweep.msg
+	McRateCtrlDebug.msg
+	SensorFilterAnalysis.ms
 )
 list(SORT msg_files)
 
