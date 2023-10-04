@@ -230,7 +230,7 @@ set(msg_files
 	#sweep frequecies requirement
 	ChirpSweep.msg
 	McRateCtrlDebug.msg
-	SensorFilterAnalysis.ms
+	SensorFilterAnalysis.msg
 )
 list(SORT msg_files)
 
