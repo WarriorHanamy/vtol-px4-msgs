@@ -231,6 +231,8 @@ set(msg_files
 	ChirpSweep.msg
 	McRateCtrlDebug.msg
 	SensorFilterAnalysis.msg
+	#log for vel-pitch curve
+	VelPitchNotification.msg
 )
 list(SORT msg_files)
 
