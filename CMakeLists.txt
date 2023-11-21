@@ -233,6 +233,8 @@ set(msg_files
 	SensorFilterAnalysis.msg
 	#log for vel-pitch curve
 	VelPitchNotification.msg
+	# for mpc using
+	VehicleThrustAccSetpoint.msg
 )
 list(SORT msg_files)
 
