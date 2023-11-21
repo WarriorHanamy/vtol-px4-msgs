@@ -1,0 +1,7 @@
+
+uint64 timestamp        # time since system start (microseconds)
+
+float32 thrust_acc_sp          # thrust acceleration setpoint along the thrust axis, like amostly Z body axis.
+
+float32[3] rates_sp
+
