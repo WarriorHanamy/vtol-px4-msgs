@@ -5,3 +5,6 @@ float32 thrust_acc_sp          # thrust acceleration setpoint along the thrust a
 
 float32[3] rates_sp
 
+float32 model_ff
+float32 lead_information
+
