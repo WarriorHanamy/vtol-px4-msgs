@@ -235,6 +235,7 @@ set(msg_files
 	VelPitchNotification.msg
 	# for mpc using
 	VehicleThrustAccSetpoint.msg
+	TrackingInfo.msg
 )
 list(SORT msg_files)
 
